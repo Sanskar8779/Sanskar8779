@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sanskar Shubham</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanskar8779&label=Profile%20views&color=0e75b6&style=flat" alt="sanskar8779" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanskar8779" alt="sanskar8779" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/sshubham_8779" target="blank"><img src="https://img.shields.io/twitter/follow/sshubham_8779?logo=twitter&style=for-the-badge" alt="sshubham_8779" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,5 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanskar8779&show_icons=true&locale=en" alt="sanskar8779" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanskar8779&" alt="sanskar8779" /></p>
-
 
