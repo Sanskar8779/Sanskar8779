@@ -8,7 +8,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanskar8779](https://github.com/Sanskar8779)
 
-- 📫 How to reach me **sanskar.shubham28@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
