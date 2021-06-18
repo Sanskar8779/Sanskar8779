@@ -1,7 +1,6 @@
 <h1 align="center">Hi, Sanskar Here!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Open Source Enthusiast, Interested in Development and CP...</h3>
 
-<p align="left"> <a href="https://twitter.com/sshubham_8779" target="blank"><img src="https://img.shields.io/twitter/follow/sshubham_8779?logo=twitter&style=for-the-badge" alt="sshubham_8779" /></a> </p>
 
 - 🔭 I’m currently working on [DSA](https://github.com/Sanskar8779/DSA)
 
