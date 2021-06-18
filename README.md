@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [DSA](https://github.com/Sanskar8779/DSA)
 
-- 🌱 I’m currently learning **Front-End Web Development**
+- 🌱 I’m currently learning **Front-End Web Development AND DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanskar8779](https://github.com/Sanskar8779)
 
