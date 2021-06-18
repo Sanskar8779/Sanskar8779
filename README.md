@@ -13,6 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sanskar8779" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="sanskar8779" height="30" width="40" /></a>
+<a href="mailto:sanskar.shubham28@gmail.com">
+<img align="center" src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png"height="30" width="40" />
 <a href="https://twitter.com/sshubham_8779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sshubham_8779" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanskar-shubham-909a251b7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanskar-shubham-909a251b7/" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskar_8667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskar_8667" height="30" width="40" /></a>
