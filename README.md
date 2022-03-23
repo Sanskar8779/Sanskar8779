@@ -2,7 +2,7 @@
 <h3 align="center">Open Source Enthusiast, Interested in Development and CP...</h3>
 
 
-- 🔭 I’m currently working on [DSA](https://github.com/Sanskar8779/DSA)
+- 🔭 I’m currently working on [Weather-Application](https://sanskar8779.github.io/Weather-Application/)
 
 - 🌱 I’m currently learning **Front-End Web Development AND DSA**
 
