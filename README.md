@@ -13,12 +13,7 @@
 
 <p align="left">
   
-<a href="mailto:sanskar.shubham28@gmail.com">
-<img align="center" src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png"height="30" width="40" />
-
-<a href="https://twitter.com/sshubham_8779" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sshubham_8779" height="30" width="40" /></a>
-  
-<a href="https://www.linkedin.com/in/sanskar8779/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="mailto:sanskar.shubham28@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-logo-B9EE8C51F1-seeklogo.com.png"height="30" width="40" /><a href="https://twitter.com/sshubham_8779" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sshubham_8779" height="30" width="40" /></a><a href="https://www.linkedin.com/in/sanskar8779/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
 
 </p>
 
